@@ -1,0 +1,6 @@
+name: SimpleJoinMessage
+version: '1.0'
+main: net.abhinav.sjm.SJM
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]
